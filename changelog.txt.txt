@@ -1,0 +1,2 @@
+================================================================
+v 1.0 Added base images to cover complete xbmc backgrounds.
